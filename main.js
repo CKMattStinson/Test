@@ -22,7 +22,7 @@ let enemyGroup;
 // Add a third comment
 function preload() {
   this.load.spritesheet('player', 'assets/players/pirate_blue.png', { frameWidth: 114, frameHeight: 114 });
-
+  // Here's a fourth comment
   this.load.spritesheet('enemy1', 'assets/enemies/chomper.png', { frameWidth: 114, frameHeight: 114 });
   this.load.spritesheet('enemy2', 'assets/enemies/bat.png', { frameWidth: 114, frameHeight: 114 });
   this.load.spritesheet('enemy3', 'assets/enemies/ghost.png', { frameWidth: 114, frameHeight: 114 });
