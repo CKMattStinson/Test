@@ -19,7 +19,7 @@ const game = new Phaser.Game(config);
 let player;
 let playerGroup;
 let enemyGroup;
-
+// Add a third comment
 function preload() {
   this.load.spritesheet('player', 'assets/players/pirate_blue.png', { frameWidth: 114, frameHeight: 114 });
 
