@@ -15,7 +15,7 @@ const config = {
 };
 // Comment
 const game = new Phaser.Game(config);
-
+// Another Comment
 let player;
 let playerGroup;
 let enemyGroup;
