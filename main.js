@@ -13,7 +13,7 @@ const config = {
     update: update
   }
 };
-
+// Comment
 const game = new Phaser.Game(config);
 
 let player;
